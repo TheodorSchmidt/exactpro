@@ -14,6 +14,9 @@ FRONTEND(!!!)
 8. Запустить проект: `npm run start`
 
 Если возникнут проблемы, пишите:
+
 bogdan_zakharov_99@mail.ru
+
 https://vk.com/theodorschmidt
+
 Hangouts - Bogdan Zakharov
