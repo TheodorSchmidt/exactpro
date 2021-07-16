@@ -1,0 +1,14 @@
+[
+    {
+        "alertId": "PPA260120211",
+        "alertType": "PPA",
+        "description": "Potential pumping price activity has been noticed for the following combination of <Execution Entity Name>, <Instrument Name> and <Currency> where an average price is greater than previous more than 50% and is <Current percent>",
+        "affectedTransactionsCount": "10"
+    },
+    {
+        "alertId": "ICA260120211",
+        "alertType": "ICA",
+        "description": "Currency field is incorrect for the combination of AAWDW64954 and EX0345934354",
+        "affectedTransactionsCount": "2"
+    }
+]
